@@ -1,4 +1,4 @@
-# AlexNet-Facial-Expression
+# Facial-Expression-Recognition-using-AlexNet
 
 Voici le lien pour télécharger le fer2013.csv dans son dossier fer2013 :
 https://drive.google.com/drive/folders/114PusedaxwqAiGoB61SkhGHHPHrnDjyc?usp=sharing
